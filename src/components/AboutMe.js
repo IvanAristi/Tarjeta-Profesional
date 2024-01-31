@@ -1,29 +1,28 @@
 import React from 'react'
 import './AboutMe.css'
 
- const AboutMe = () => {
+
+
+
+
+ const AboutMe = (props) => {
   return (
     <div>
         
         <h1>Acerca de mi</h1>
-         <p>¡Hola! Soy [Tu Nombre], un
-             [Tu Profesión o Intereses] apasionado
-              por [Tus Intereses]. Me encanta [Algo 
-              que Te Apasione] y estoy comprometido/a
-               a [Lo que Sea Relevante]. En mi tiempo 
-               libre, disfruto [Otras Actividades o 
-            Pasatiempos]. ¡Bienvenido/a a mi página
-             personal!</p>
+         <p>Un curioso por la tecnologia y la innovacion,
+          me inquieta saber y conocer  el funcionamiento de los sistemas tecnologicos;
+          aspiro poder aportar soluciones, que contribuyan a ayudar
+           y mejorar la vida diaria de las personas,siempre dispuesto a enseñar y 
+           a aprender, el camino para alcanzar los objetivos
+         </p>
 
              <h2>Intereses</h2>
-         <p>¡Hola! Soy [Tu Nombre], un
-             [Tu Profesión o Intereses] apasionado
-              por [Tus Intereses]. Me encanta [Algo 
-              que Te Apasione] y estoy comprometido/a
-               a [Lo que Sea Relevante]. En mi tiempo 
-               libre, disfruto [Otras Actividades o 
-            Pasatiempos]. ¡Bienvenido/a a mi página
-             personal!</p>
+         <p>Quisiara algun dia poder ejercer la labor de desarrollador
+          y relacionarme con personas de la industria , para fortalecer mis conocimientos.
+          Ademas de la programacion en mis tiempos libres disfruto de otras actividades que son de mi interes ,
+           asi como lo es el futbol
+         </p>
 
 
 

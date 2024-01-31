@@ -12,6 +12,8 @@ const nombre = "Ivan Dario Aristizabal"
 const profesion = 'Future Fullstack Developer'
 const correo = 'darivanarsa@Gmail.com'
 
+
+
 function App() {
 
   return (
@@ -21,7 +23,7 @@ function App() {
     <Avatar name = {nombre}  />
     <MyInfo  name= {nombre}  profesion = {profesion} correo={correo} />
     <SocialNetworks/>
-    <AboutMe/>
+    <AboutMe />
     <Footer/>
 
 
