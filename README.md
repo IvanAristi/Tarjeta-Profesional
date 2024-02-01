@@ -2,6 +2,9 @@ Digital Card - My Name
 
 This project is a digital card that contains professional information about me. You can find details about my avatar, personal information, social networks, a short description and a footer.
 
+![card](./src/Assets/Captura%20de%20pantalla%202024-02-01%20092343.png)
+
+
 ## Used technology
 
 - ReactJS
