@@ -3,15 +3,14 @@
     margin: auto;
     width: 317px;
     height: 100px;
-    background-color: rgb(24, 144, 94);
+    background-color: rgb(226, 229, 235);
   }
 
 button{
     width: 40px ;
     height: 40px;
    margin-block-end: 5px;
-  
-  gap: 10px
+    gap: 10px
 }
 
   

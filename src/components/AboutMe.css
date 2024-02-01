@@ -11,3 +11,6 @@ body {
   h1{
     padding: 10px;
   }
+  p :hover{
+    font-size: 2.0rem;
+  }
