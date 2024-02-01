@@ -1,9 +1,6 @@
 .date{
-    display: flex;
-    width: 69%;
-    text-align: center; /* Ajusta el texto a la izquierda para que sea más legible */
-    margin: 0 auto; /* Alinea el párrafo horizontalmente en el centro */
-    max-width: 600px; 
+   background-color: rgb(70, 138, 186); 
+   width: 317px;
 }
 a{
     max-width: 600px; 

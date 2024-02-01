@@ -9,7 +9,7 @@ import './AboutMe.css'
   return (
     <div>
         
-        <h1>Acerca de mi</h1>
+        <h1 >Acerca de mi</h1>
          <p>Un curioso por la tecnologia y la innovacion,
           me inquieta saber y conocer  el funcionamiento de los sistemas tecnologicos;
           aspiro poder aportar soluciones, que contribuyan a ayudar
