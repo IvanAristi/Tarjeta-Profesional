@@ -1,8 +1,9 @@
   .redes{
     align-items: center;
+    margin: auto;
     width: 317px;
     height: 100px;
-    background-color: rgb(24, 136, 144);
+    background-color: rgb(24, 144, 94);
   }
 
 button{
